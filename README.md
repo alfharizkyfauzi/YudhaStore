@@ -1,4 +1,4 @@
-# shayna
+# YudhaStore
 
 ## Project setup
 ```
