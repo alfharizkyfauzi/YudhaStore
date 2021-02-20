@@ -643,19 +643,6 @@ ol {
     margin-bottom: 10px;
 }
 
-.inner-header .nav-right li.cart-icon .cart-hover .select-button .view-card:hover {
-    font-size: 12px;
-    letter-spacing: 2px;
-    display: block;
-    text-align: center;
-    border: 2px solid;
-    border-color: #191919;
-    background: #ffffff;
-    color: #191919;
-    padding: 15px 30px 12px;
-    margin-bottom: 10px;
-}
-
 .inner-header .nav-right li.cart-icon .cart-hover .select-button .checkout-btn {
     font-size: 12px;
     letter-spacing: 2px;
@@ -664,18 +651,6 @@ ol {
     border: 2px solid;
     border-color: #e7ab3c;
     color: #252525;
-    padding: 15px 30px 12px;
-}
-
-.inner-header .nav-right li.cart-icon .cart-hover .select-button .checkout-btn:hover {
-    font-size: 12px;
-    letter-spacing: 2px;
-    display: block;
-    text-align: center;
-    border: 2px solid;
-    border-color: #e7ab3c;
-    background: #ffffff;
-    color: #e7ab3c;
     padding: 15px 30px 12px;
 }
 
